@@ -1,0 +1,61 @@
+/********** Base styles **********/
+
+h1 {
+  margin-bottom: 20px;
+  color:gray ;
+}
+
+p {
+  padding : 5px ;
+}
+
+.content
+{
+    padding-top: 5px ;
+}
+
+.menuName
+{
+  text-transform: uppercase;
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+
+.menuName1
+{
+  background-color: maroon;
+}
+
+.menuName2
+{
+  background-color: coral;
+}
+
+.menuName3
+{
+  background-color: gold;
+}
+
+.menuItem
+{
+  border: 2px solid black;
+  background-color: #FFFFE0 ;
+  margin: 10px;
+}
+
+#nav-list
+{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#collapsable-nav
+{
+  background-color: #FFFFE0 ;
+}
+
+#nav-list li a:hover
+{
+  background-color: #CD5C5C ;
+}
